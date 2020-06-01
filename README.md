@@ -35,7 +35,7 @@ Compile and Install needed packages by running:
 Modify the ssh credentials, node names and numbering at the end of the script corresponding to your system.
 
 
-Exmperimenting
+Running the pipeline
 ---
 ### Preparing data
 ---
