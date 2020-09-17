@@ -1,6 +1,9 @@
 PanGenSpark
 =================
 
+Cite as:
+Maarala A.I., Arasalo O., Valenzuela D., Heljanko K., Mäkinen V. (2020) Scalable Reference Genome Assembly from Compressed Pan-Genome Index with Spark. In: Nepal S., Cao W., Nasridinov A., Bhuiyan M.Z.A., Guo X., Zhang LJ. (eds) Big Data – BigData 2020. BIGDATA 2020. Lecture Notes in Computer Science, vol 12402. Springer, Cham. https://doi.org/10.1007/978-3-030-59612-5_6
+
 General
 -------
 
